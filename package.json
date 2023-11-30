@@ -1,0 +1,12 @@
+{
+  "name": "DuolingoType",
+  "version": "1.0.0",
+  "author": "Szymon Brud",
+  "email": "szymonus.b@gmail.com",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
